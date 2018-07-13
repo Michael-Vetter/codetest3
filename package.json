@@ -1,0 +1,11 @@
+{
+  "name": "codetest3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printCombinations.js",
+  "author": "Michael Vetter",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

@@ -7,6 +7,6 @@ To install:
 2) add files to directory
 3) from nodejs command prompt, type 'npm install' 
 4) to run, type 'node printCombinations XX'  (XX can be any string containing Xs, 1s, and 0s)
-5) to run mocha tests, type 'mocha <path>/test/test.js
+5) to run mocha tests, type 'mocha \<path>/test/test.js'
 
 
